@@ -1,1 +1,1 @@
-# pagtakdo
+pagtakdo
